@@ -1,0 +1,21 @@
+main: me.nozembr.wkitpvp
+name: KitPvPwarpsN
+version: 1.2
+commands:
+  wk:
+    description: See commands.
+  fps:
+    description: WARP FPS.
+  lava:
+    description: WARP LAVA.
+  knockback:
+    description: WARP KNOCKBACK.
+  wkset:
+    description: Set a warp.
+    usage: /wkset <warp kitpvp>
+  leave:
+    description: exit from warps.
+  wkadmin:
+    description: ADMIN COMMANDS.
+  wkmenu:
+    description: Open Menu.

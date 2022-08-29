@@ -1,0 +1,35 @@
+
+
+#messages
+Permission: '&4No permission'
+reloaded: '&6Plugin reloaded'
+console-cmd: '&cCommand only in game'
+leave-msg: '&aType: &c/leave &afor return to spawn'
+
+#SET
+fps-set: '&aFPS SET'
+lava-set: '&aLava set'
+knockback-set: '&aKnockback set'
+leave-set: '&aExit set'
+fps-not-set: '&4FPS not found'
+lava-not-set: '&4Lava not found'
+knockback-not-set: '&4Knockback not found'
+leave-not-set: '&4Exit not found'
+
+#teleport
+fps-teleport: '&aTeleported to warp: &bFPS'
+lava-teleport: '&aTeleported to  warp: &bLavaChallenge'
+knockback-teleport: '&aTeleported to  warp: &bKnockback'
+leave-teleport: '&aTeleported to  spawn'
+
+#MENUS
+soup-inventory: '&cSoup'
+menu-name: '&aKitPvP Warps'
+fps-menu: '&bFPS'
+fps-lore: '&7* &bWarp FPS'
+lava-menu: '&6LavaChallenge'
+lava-lore: '&7* &6Warp LavaChallange'
+knock-menu: '&5Knockback'
+knock-lore: '&7* &5Warp Knockback'
+leave-menu: '&cEXIT'
+leave-lore: '&7* &cReturn to spawn'
